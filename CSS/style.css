@@ -281,7 +281,7 @@ header .navbar-nav .nav-link:hover {
   left: 0;
   right: 0;
   width: 100%;
-  max-width: 1115px;
+  max-width: 88%;
   margin: auto;
   z-index: 999;
   transition: 0.4s all ease-in-out;
