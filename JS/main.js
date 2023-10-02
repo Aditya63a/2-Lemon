@@ -10,7 +10,7 @@ window.onscroll = function() {
 }
 
 // let nav = document.querySelector(".navbar");
-// window.onscroll = function () {
+// window.onscroll = function() {
 //     if(document.documentElement.scrollTop > 50){
 //         nav.classList.add("scroll-on");
 //     }else{
